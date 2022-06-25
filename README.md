@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeunerturk
 - 👀 I’m interested in iOS programming and Unity
-- 🌱 I’m currently learning Swift and C#
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me mrh.seldon@gmail.com
 
 <!---
